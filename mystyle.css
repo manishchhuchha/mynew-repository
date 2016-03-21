@@ -10,3 +10,18 @@
   background-color:#005643;
   
 }
+
+nav a {
+  background-color: gray;
+  color: #000;
+  line-height: 38px;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  vertical-align: middle;
+}
+
+nav {
+  position: fixed;
+  top: 0;
+}
