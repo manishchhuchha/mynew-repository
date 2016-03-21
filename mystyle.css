@@ -20,7 +20,8 @@ nav a {
   text-decoration: none;
   vertical-align: middle;
   font-weight:bold;
-  font-size:12px;
+  font-size:19px;
+  font-family:helvetica;
 }
 
 .main-wraper {
@@ -32,6 +33,7 @@ nav a {
 .menu {
   border: 1px solid #ccc;
   box-shadow: 5px 10px 5px;
+  border-radius:3px;
   height: 39px;
   margin: 0 auto !important;
   position: fixed;
