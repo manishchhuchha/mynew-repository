@@ -28,12 +28,14 @@ nav a {
 }
 
 .menu {
-  height:39px;
-  margin: 0 auto;
-  width: 100%;
-  position:fixed;
-  top:0;
-  box-shadow:5px 10px 5px;
+  border: 1px solid #ccc;
+  box-shadow: 5px 10px 5px;
+  height: 39px;
+  margin: 0 auto !important;
+  position: fixed;
+  top: 0;
+  width: 99.8%;
+  background-color:#ddd;
 }
 
 body {
