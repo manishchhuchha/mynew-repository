@@ -25,3 +25,10 @@ nav {
   position: fixed;
   top: 0;
 }
+
+.main-wraper{
+  margin-top:60px;
+  width:100%;
+  height:auto;
+  
+}
