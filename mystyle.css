@@ -21,11 +21,6 @@ nav a {
   vertical-align: middle;
 }
 
-nav {
-  position: fixed;
-  top: 0;
-}
-
 .main-wraper{
   width:100%;
   height:auto;
@@ -33,9 +28,12 @@ nav {
 }
 
 .menu {
-  height: 100px;
+  height:39px;
   margin: 0 auto;
   width: 100%;
+  position:fixed;
+  top:0;
+  box-shadow:5px 10px 5px;
 }
 
 body {
