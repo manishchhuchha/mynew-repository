@@ -21,10 +21,10 @@ nav a {
   vertical-align: middle;
 }
 
-.main-wraper{
-  width:100%;
-  height:auto;
-  
+.main-wraper {
+  height: auto;
+  margin-top: 60px;
+  width: 100%;
 }
 
 .menu {
