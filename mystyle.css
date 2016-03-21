@@ -42,3 +42,9 @@ body {
   margin: 0 auto;
   width: 100%;
 }
+
+nav ul {
+  list-style: outside none none;
+  margin:0;
+  padding:0;
+}
