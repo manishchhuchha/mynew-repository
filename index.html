@@ -1,8 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
- <link rel="stylesheet" type="text/css" href="mystyle.css"> 
+ <link rel="stylesheet" type="text/css" href="mystyle.css">
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js">
+<script>
+$("a[href='#contact']").click(function() {
+  $("html, body").animate({ scrollTop: 0 }, "slow");
+  return false;
+});
+</script>
 </head>
+
 <body>
  
 <div class="menu">
